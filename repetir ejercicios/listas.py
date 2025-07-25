@@ -5,14 +5,14 @@
 #4. Ordena alfabeticamente
 #5. Recorre la lista con un bucle y saluda a cada persona
 
-nombres = ["Rodrigo", "Bruno", "Ana", "Aner", "Aldegungo"]
+nombres = ["predro","Rodrigo", "Bruno", "Ana", "Aner", "Aldegungo"]
 # imprimir segundo nombre:         print(nombres[1])
 
 #agregar otro nombre 
 
 for nombre in nombres:
-    nombres.append("Franco")
+    nombres.append("Keneth")
     nombres.sort()
-    nombres = sorted(nombres)
+    nombres= sorted(nombres)
     print("hola", nombre)
 
