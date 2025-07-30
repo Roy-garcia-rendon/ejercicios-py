@@ -29,3 +29,7 @@ print(nombre.find("José"))  # 6
 print("José" in nombre)     # True
 
 nombre = "Rodrigo Aner Garcia "
+print(nombre.strip())
+print(nombre.title())
+print(nombre.replace("o", "0"))
+print("Aner" in nombre)
