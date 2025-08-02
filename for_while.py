@@ -10,3 +10,7 @@ contador = 0
 while contador <= 5:
     print(contador)
     contador += 1
+
+#detener un bucle con break
+# break: detiene el bucle inmediatamente
+# continue: salta la interaccion actual
