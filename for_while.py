@@ -14,3 +14,7 @@ while contador <= 5:
 #detener un bucle con break
 # break: detiene el bucle inmediatamente
 # continue: salta la interaccion actual
+for letra in "python":
+    if letra == "h":
+        break
+    print(letra)
