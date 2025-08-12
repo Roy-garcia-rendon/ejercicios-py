@@ -32,19 +32,52 @@ Welcome to my Python Learning Journey repository! This comprehensive collection 
 ## 📂 Repository Structure
 ```
 .
-├── Estructura de datos/    # Data structure implementations
-│   ├── estructuras.py     # Data structure operations
-│   ├── diccionarios.py    # Dictionary examples
-│   └── conjuntos.py       # Set operations
-├── ejer/                  # Exercise solutions
-│   ├── calcualdora.py     # Calculator application
-│   └── def.py             # Function examples
-├── archivos/              # File handling examples
-├── variables.py           # Variable examples
-├── listas.py              # List operations
-├── strings.py             # String manipulation
-├── if_else.py             # Conditional statements
-└── for_while.py           # Loop examples
+├── src/
+│   ├── data_structures/    # Data structure implementations
+│   │   ├── conjuntos.py        # Set operations
+│   │   ├── diccionarios.py     # Basic dictionary examples
+│   │   ├── diccionario_avanzado.py  # Advanced dictionary examples
+│   │   ├── estructuras.py      # General data structure operations
+│   │   ├── listas.py           # List operations
+│   │   └── tuplas.py           # Tuple examples
+│   │
+│   ├── exercises/         # Exercise solutions
+│   │   ├── bucles.py      # Loop exercises
+│   │   ├── built-in.py    # Built-in functions
+│   │   ├── calcualdora.py # Calculator application
+│   │   ├── def.py         # Function examples
+│   │   ├── diccionarios.py
+│   │   ├── edad_if.py     # If-else examples
+│   │   ├── for.py         # For loop examples
+│   │   ├── leer.py        # File reading examples
+│   │   ├── listas.py      # List exercises
+│   │   ├── nombresval.py  # Name validation examples
+│   │   └── while.py       # While loop examples
+│   │
+│   └── utils/             # Utility scripts
+│       ├── bucles.py      # Loop utilities
+│       ├── built-in.py    # Built-in function examples
+│       ├── def.py         # Function utilities
+│       ├── for_while.py   # Loop utilities
+│       ├── if_else.py     # Conditional examples
+│       ├── leertxt.py     # File handling utilities
+│       ├── listas.py      # List utilities
+│       ├── strings.py     # String manipulation
+│       ├── tipo_datos.py  # Data type examples
+│       └── variables.py   # Variable examples
+│
+├── tests/                 # Test files
+│   ├── bucle2.py
+│   ├── bucles3.py
+│   └── leer.py
+│
+├── data/                  # Data files for examples
+│   ├── nombre.txt
+│   ├── nombres.txt
+│   └── text.txt
+│
+├── .git/                  # Git version control
+└── README.md              # This file
 ```
 
 ## 🏁 Getting Started
