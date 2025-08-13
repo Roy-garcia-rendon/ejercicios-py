@@ -16,3 +16,26 @@ dias_semana = ("Luners", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "
 #mostrar todos los dias
 for dia in dias_semana:
     print(dia)
+
+
+
+#Conversión entre tuplas y listas
+
+lista = [1,2,3]
+tupla = tuple(lista)
+print(tupla) # (1, 2, 3)
+
+lista_nueva = list(tupla)
+print(lista_nueva) # [1, 2, 3]
+
+
+#Mini ejercicio
+frutas = ("manzana", "pera", "uva")
+
+for fru in frutas:
+    print(fru)
+
+lista = list(frutas)
+lista.append("durazno")
+print(lista)
+
