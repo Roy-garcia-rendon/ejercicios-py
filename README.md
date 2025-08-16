@@ -1,3 +1,10 @@
+<div align="right">
+  <small>
+    <a href="#readme">English</a> | 
+    <a href="#readme-es">Español</a>
+  </small>
+</div>
+
 # 🐍 Python Fundamentals & Data Structures Mastery
 
 ## 🚀 Project Overview
