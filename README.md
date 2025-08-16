@@ -117,3 +117,80 @@ This project is open source and available under the MIT License.
 *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
 
 Happy coding! 🚀
+
+---
+
+<a id="readme-es"></a>
+
+# 🐍 Fundamentos de Python y Estructuras de Datos
+
+## 🚀 Visión General del Proyecto
+¡Bienvenido a mi repositorio de Aprendizaje de Python! Esta colección completa de scripts y ejercicios de Python representa mi dedicado esfuerzo para dominar los fundamentos de programación en Python y las estructuras de datos. Cada archivo en este repositorio sirve como un bloque de construcción en mi viaje para convertirme en un desarrollador de Python competente.
+
+## 📚 Lo que incluye
+
+### 🏗️ Conceptos Básicos de Python
+- **Variables y Tipos de Datos**: Entendiendo el sistema de tipos dinámico de Python
+- **Flujo de Control**: Sentencias if-else, bucles (for/while) y operaciones lógicas
+- **Funciones**: Creando bloques de código reutilizables con parámetros y valores de retorno
+- **Manejo de Archivos**: Lectura y escritura de archivos
+- **Funciones Integradas**: Aprovechando la poderosa biblioteca estándar de Python
+
+### 🧮 Estructuras de Datos
+- **Listas**: Colecciones ordenadas y mutables
+- **Diccionarios**: Colecciones de pares clave-valor
+- **Conjuntos**: Colecciones no ordenadas de elementos únicos
+- **Tuplas**: Secuencias inmutables
+
+### 🛠️ Aplicaciones Prácticas
+- **Calculadora**: Una calculadora de línea de comandos que demuestra el flujo de control
+- **Procesamiento de Texto**: Manipulación de cadenas y operaciones con archivos
+- **Manipulación de Datos**: Trabajando con diferentes estructuras de datos
+
+## 🎯 Objetivos de Aprendizaje
+- Dominar la sintaxis de Python y las mejores prácticas
+- Comprender cuándo y cómo usar diferentes estructuras de datos
+- Desarrollar habilidades de resolución de problemas a través de ejercicios prácticos
+- Construir una base sólida para programación más avanzada en Python
+
+## 📂 Estructura del Repositorio
+```
+.
+├── src/
+│   ├── data_structures/    # Implementaciones de estructuras de datos
+│   ├── exercises/          # Soluciones de ejercicios
+│   └── utils/              # Scripts de utilidad
+├── tests/                  # Archivos de prueba
+└── data/                   # Archivos de datos para ejemplos
+```
+
+## 🏁 Empezando
+1. Clona este repositorio
+   ```bash
+   git clone <url-del-repositorio>
+   ```
+2. Navega al directorio del proyecto
+   ```bash
+   cd python
+   ```
+3. Ejecuta cualquier archivo Python para ver los ejemplos en acción
+   ```bash
+   python nombre_archivo.py
+   ```
+
+## 📝 Notas
+- Todo el código incluye comentarios en español para mejor comprensión
+- Los ejemplos progresan de conceptos básicos a más complejos
+- Cada archivo es independiente y se puede ejecutar por separado
+
+## 🤝 Contribuciones
+Aunque este es principalmente un repositorio de aprendizaje personal, ¡las sugerencias y mejoras son bienvenidas! Siéntete libre de abrir issues o enviar pull requests.
+
+## 📜 Licencia
+Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+
+---
+
+*"La única manera de aprender un nuevo lenguaje de programación es escribiendo programas en él."* - Dennis Ritchie
+
+¡Feliz programación! 🚀
