@@ -1,0 +1,5 @@
+cadena = "bienvenido a mi aplicación".capitalize()
+print(cadena)
+print(cadena.count("a"))
+print(cadena.find("mi"))
+print(cadena.find("mi", 0, 10))
